@@ -27,6 +27,8 @@ Even a few dollars are appreciated. Thanks!
 
 3-B. Layers API ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/03B_Layers_API.ipynb))
 
+3-C. Keras API ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/03C_Keras_API.ipynb))
+
 4. Save & Restore ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/04_Save_Restore.ipynb))
 
 5. Ensemble Learning ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/05_Ensemble_Learning.ipynb))
@@ -39,7 +41,7 @@ Even a few dollars are appreciated. Thanks!
 
 9. Video Data ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/09_Video_Data.ipynb))
 
-10. Not available yet. Please [support this issue](https://github.com/tensorflow/tensorflow/issues/5036) on GitHub so we can get it done!
+10. Fine-Tuning ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/10_Fine-Tuning.ipynb))
 
 11. Adversarial Examples ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/11_Adversarial_Examples.ipynb))
 
@@ -47,24 +49,33 @@ Even a few dollars are appreciated. Thanks!
 
 13. Visual Analysis ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/13_Visual_Analysis.ipynb))
 
+13-B. Visual Analysis for MNIST ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/13B_Visual_Analysis_MNIST.ipynb))
+
 14. DeepDream ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/14_DeepDream.ipynb))
 
 15. Style Transfer ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/15_Style_Transfer.ipynb))
 
 16. Reinforcement Learning ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/16_Reinforcement_Learning.ipynb))
 
+17. Estimator API ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/17_Estimator_API.ipynb))
+
+18. TFRecords & Dataset API ([Notebook](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/18_TFRecords_Dataset_API.ipynb)) 
+
 ## Videos
 
 These tutorials are also available as [YouTube videos](https://www.youtube.com/playlist?list=PL9Hr9sNUjfsmEu1ZniY0XpHSzl5uihcXZ).
 
-## Older Versions
+## Translations
 
-Sometimes the source-code has changed from that shown in the YouTube videos. This may be due to
-bug-fixes, improvements, or because code-sections are moved to separate files for easy re-use.
+These tutorials have been translated to the following languages:
 
-If you want to see the exact versions of the source-code that were used in the YouTube videos,
-then you can [browse the history](https://github.com/Hvass-Labs/TensorFlow-Tutorials/commits/master)
-of commits to the GitHub repository.
+* [Chinese](https://github.com/thrillerist/TensorFlow-Tutorials)
+
+You can help by translating the remaining tutorials or reviewing the ones that have already been translated. You can also help by translating to other languages.
+
+## Forks
+
+See the [selected list of forks](forks.md) for community modifications to these tutorials.
 
 ## Downloading
 
@@ -140,6 +151,15 @@ You should now be able to run the tutorials in the Python Notebooks:
 
 This should start a web-browser that shows the list of tutorials. Click on a tutorial to load it.
 
+## Older Versions
+
+Sometimes the source-code has changed from that shown in the YouTube videos. This may be due to
+bug-fixes, improvements, or because code-sections are moved to separate files for easy re-use.
+
+If you want to see the exact versions of the source-code that were used in the YouTube videos,
+then you can [browse the history](https://github.com/Hvass-Labs/TensorFlow-Tutorials/commits/master)
+of commits to the GitHub repository.
+
 ## License (MIT)
 
 These tutorials and source-code are published under the [MIT License](https://github.com/Hvass-Labs/TensorFlow-Tutorials/blob/master/LICENSE)
@@ -149,4 +169,3 @@ A few of the images used for demonstration purposes may be under copyright. Thes
 
 You are very welcome to modify these tutorials and use them in your own projects.
 Please keep a link to the [original repository](https://github.com/Hvass-Labs/TensorFlow-Tutorials).
-
